@@ -11,3 +11,5 @@ What you can do with GitHub:
 
 GitHub has a documentation website where all the useful commands and
 descriptions can be found.
+
+GitHub is used for version control to helps developers track and manage changes to a software project’s code.
